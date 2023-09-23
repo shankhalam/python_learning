@@ -1,8 +1,8 @@
 ## About Project:
 
 ### Learning repo of Python
-<ul>
+
 <li> EMI Calclator </li>
 <li> Student Management System (with oops concept) </li>
-<li><b> Tkinter Practices</li>
+<li> Tkinter Practices </li>
 
