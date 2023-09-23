@@ -4,5 +4,5 @@
 <ul>
 <li> EMI Calclator </li>
 <li> Student Management System (with oops concept) </li>
-<li> Tkinter Practices</li>
-</ul>
+<li><b> Tkinter Practices</li>
+

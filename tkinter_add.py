@@ -11,17 +11,17 @@ def add_num():
 
 
 root = Tk()
-root.geometry("250x250")
+root.geometry("250x100")
 
 num1 = Entry()
 num2 = Entry()
 num1.pack()
 num2.pack()
 
-button = Button(text="Add", command=add_num)
+button = Button(root, text="Add", command=add_num)
 button.pack()
 
-display = Label()
+display = Label(root)
 display.pack()
 
 root.mainloop()
