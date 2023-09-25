@@ -27,11 +27,11 @@ class Demo:
         self.loginlabel.grid(row=3, column=1)
 
     def login(self):
-        self.loginlabel.config(text="Validation Failed.")
+        self.loginlabel.config(text="Thank you for login")
 
 
 root = Tk()
-# root.geometry("250x150")
+root.geometry("250x150")
 d = Demo(root)
 
 my_menu = Menu(root)
